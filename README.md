@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning backend and frontend development.
 - 👯 I’m looking to collaborate on web developments projects.
 - 😄 Pronouns: she/her - ela/dela
-- ⚡ Fun fact: Guinea pigs are my favourite animals in the world! 🐹
+- ⚡ Fun fact: Cats are my favorite animals in the world!
 
 
 <br/>
