@@ -33,8 +33,8 @@
   <!--
   <img align="center" alt="War-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
-  <img align="right" alt="War-pic" height="150" style="border-radius:50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFy4BFPErSMbA/profile-displayphoto-shrink_800_800/0/1657236297767?e=1675296000&v=beta&t=dQ-8QwLr02RODIqB2QPv2MrGiZz6bIxACySaD3AIZaM">
-</div>
+<!--   <img align="right" alt="War-pic" height="150" style="border-radius:50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFy4BFPErSMbA/profile-displayphoto-shrink_800_800/0/1657236297767?e=1675296000&v=beta&t=dQ-8QwLr02RODIqB2QPv2MrGiZz6bIxACySaD3AIZaM">
+</div> -->
 
 ##
 
