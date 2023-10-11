@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my profile! 🤩
 
-- 🔭 I’m currently working on web development.
+- 🔭 I’m currently working on quality assurance.
 - 🌱 I’m currently learning backend and frontend development.
 - 👯 I’m looking to collaborate on web developments projects.
 - 😄 Pronouns: she/her - ela/dela
