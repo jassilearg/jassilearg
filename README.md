@@ -1,8 +1,6 @@
 ### Hi there! Welcome to my profile! 🤩
 
-- 🔭 I’m currently working on quality assurance.
 - 🌱 I’m currently learning web development end software testing.
-- 👯 I’m looking to collaborate on web developments projects.
 - 😄 Pronouns: she/her - ela/dela
 - ⚡ Fun fact: Cats are my favorite animals in the world!
 
