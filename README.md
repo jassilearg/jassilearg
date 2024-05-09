@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my profile! 🤩
 
-- 🌱 I’m currently learning web development and software testing.
+- 🌱 Currently, I'm working as a software tester: automated and manual functional testing.
 - 😄 Pronouns: she/her - ela/dela
 - ⚡ Fun fact: Cats are my favorite animals in the world!
 
